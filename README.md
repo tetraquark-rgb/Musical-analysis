@@ -6,6 +6,8 @@ Mode Analysis: Analyze different musical modes and their characteristics.
 Mode Search: Search for specific modes and their notes.
 Mode Comparison: Compare various modes side by side to understand their differences and similarities.
 
+An executable version for those in need
+
 Requirements
 Python 3.x
 Tkinter (usually included with Python installations)
